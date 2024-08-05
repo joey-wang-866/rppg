@@ -1,0 +1,94 @@
+{
+    "root": "/home/jagmohanmeher/data",
+    "subjects": [
+        {
+            "id": 904,
+            "static2": {
+                "sync": "904/904_static_level3_20190716_153546_sync.dat",
+                "camera1": {
+                    "video": "904/904_static_level3_20190716_153605_camera1.MP4",
+                    "bbox": "904/904_static_level3_20190716_153605_camera1_bbox.npy",
+                    "colormap": "904/904_static_level3_20190716_153605_camera1_colormap.avi",
+                    "aligned physio": "904/904_static_level3_20190716_153605_extended_poll.bin_align.csv",
+                    "gt": "904/904_static_level3_20190716_153605_camera1_gt.npz",
+                    "hybrid": "904/904_static_level3_20190716_153605_camera1_hybrid.npz"
+                },
+                "camera2": { "video": "904/904_static_level3_20190716_153605_camera2.mp4" },
+                "camera3": { "video": "904/904_static_level3_20190716_153605_camera3.mp4" },
+                "camera4": { "video": "904/904_static_level3_20190716_153605_camera4.mp4" },
+                "physio": {
+                    "ecg avf": "904/904_static_level3_20190716_153605_extended_poll.bin_320.csv",
+                    "ecg v":"904/904_static_level3_20190716_153605_extended_poll.bin_323.csv",
+                    "ecg mcl": "904/904_static_level3_20190716_153605_extended_poll.bin_331.csv",
+                    "ppg": "904/904_static_level3_20190716_153605_extended_poll.bin_19380.csv"
+                }
+            },
+            "bike1": {
+                "sync": "904/904_bike_level1_20190716_175047_sync.dat",
+                "camera1": {
+                    "video": "904/904_bike_level1_20190716_175118_camera1.MP4",
+                    "bbox": "904/904_bike_level1_20190716_175118_camera1_bbox.npy",
+                    "colormap": "904/904_bike_level1_20190716_175118_camera1_colormap.avi",
+                    "aligned physio": "904/904_bike_level1_20190716_175118_extended_poll.bin_align.csv",
+                    "gt": "904/904_bike_level1_20190716_175118_camera1_gt.npz",
+                    "hybrid": "904/904_bike_level1_20190716_175118_camera1_hybrid.npz"
+                },
+                "camera2": { "video": "904/904_bike_level1_20190716_175118_camera2.mp4" },
+                "camera3": { "video": "904/904_bike_level1_20190716_175118_camera3.mp4" },
+                "camera4": { "video": "904/904_bike_level1_20190716_175118_camera3.mp4" },
+                "physio": {
+                    "ecg avf": "904/904_bike_level1_20190716_175118_extended_poll.bin_320.csv",
+                    "ecg v":"904/904_bike_level1_20190716_175118_extended_poll.bin_323.csv",
+                    "ecg mcl": "904/904_bike_level1_20190716_175118_extended_poll.bin_331.csv",
+                    "ppg": "904/904_bike_level1_20190716_175118_extended_poll.bin_19380.csv"
+                }
+            }
+        },
+
+        {
+            "id": 19,
+            "static2": {
+                "sync": "19/19_static_level3_20190711_172711_sync.dat",
+                "camera1": {
+                    "video": "19/19_static_level3_20190711_172737_camera1.MP4",
+                    "bbox": "19/19_static_level3_20190711_172737_camera1_bbox.npy",
+                    "colormap": "19/19_static_level3_20190711_172737_camera1_colormap.avi",
+                    "aligned physio": "19/19_static_level3_20190711_172737_extended_poll.bin_align.csv",
+                    "gt": "19/19_static_level3_20190711_172737_camera1_gt.npz",
+                    "hybrid": "19/19_static_level3_20190711_172737_camera1_hybrid.npz"
+                },
+                "camera2": { "video": "19/19_static_level3_20190711_172737_camera2.mp4" },
+                "camera3": { "video": "19/19_static_level3_20190711_172737_camera2.mp4" },
+                "camera4": { "video": "19/19_static_level3_20190711_172737_camera2.mp4" },
+                "physio": {
+                    "ecg avf": "19/19_static_level3_20190711_172737_extended_poll.bin_320.csv",
+                    "ecg v":"19/19_static_level3_20190711_172737_extended_poll.bin_323.csv",
+                    "ecg mcl": "19/19_static_level3_20190711_172737_extended_poll.bin_331.csv",
+                    "ppg": "19/19_static_level3_20190711_172737_extended_poll.bin_19380.csv"
+                }
+            },
+            "bike1": {
+                "sync": "19/19_bike_level1_20190711_181818_sync.dat",
+                "camera1": {
+                    "video": "19/19_bike_level1_20190711_181856_camera1.MP4",
+                    "bbox": "19/19_bike_level1_20190711_181856_camera1_bbox.npy",
+                    "colormap": "19/19_bike_level1_20190711_181856_camera1_colormap.avi",
+                    "aligned physio": "19/19_bike_level1_20190711_181856_extended_poll.bin_align.csv",
+                    "gt": "19/19_bike_level1_20190711_181856_camera1_gt.npz",
+                    "hybrid": "19/19_bike_level1_20190711_181856_camera1_hybrid.npz"
+                },
+                "camera2": { "video": "19/19_bike_level1_20190711_181856_camera2.mp4" },
+                "camera3": { "video": "19/19_bike_level1_20190711_181856_camera3.mp4" },
+                "camera4": { "video": "19/19_bike_level1_20190711_181856_camera4.mp4" },
+                "physio": {
+                    "ecg avf": "19/19_bike_level1_20190711_181856_extended_poll.bin_320.csv",
+                    "ecg v":"19/19_bike_level1_20190711_181856_extended_poll.bin_323.csv",
+                    "ecg mcl": "19/19_bike_level1_20190711_181856_extended_poll.bin_331.csv",
+                    "ppg": "19/19_bike_level1_20190711_181856_extended_poll.bin_19380.csv"
+                }
+            }
+        }
+
+
+    ]
+}
